@@ -1,0 +1,13 @@
+<!--     INTENDED AS A 'BANNER' TEMPLATE FOR ADDITION IN OTHER PAGES-->
+{| class="wikitable" style="background-color:#fafafa; border: 1px solid black; margin: auto; color: black; background-color: #fafafa;" width="575px"
+<!--     'ICON' COLUMN - ONLY INTENDED FOR A SINGLE CHARACTER     -->
+| style="width: 75px; background-color: #fafafa; text-align: center;"|
+<br>
+<span style="font-size:400%">
+{{{1}}}
+</span>
+<br>
+<!--     EXPLANATORY TEXT COLUMN     -->
+| style="width: 500px background-color: #fafafa;"|
+{{{2}}}
+|}
