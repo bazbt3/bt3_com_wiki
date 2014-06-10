@@ -7,8 +7,9 @@ This file was intended to be a dynamic rendering of a simple event calendar for 
 
 The mathematics and/or Mediawiki markup code is unsound therefore the page was reverted back to a static offering.
 
-External links:
 
+External links:
+====
 Test page current version: http://bt3.com/index.php?title=CurrentEvents
 
 ADN Wiki current version: http://appdotnetwiki.net/w/index.php?title=App.Net_Wiki:Current_events
