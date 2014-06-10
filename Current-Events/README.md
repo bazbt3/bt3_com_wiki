@@ -1,3 +1,6 @@
+What is this?
+====
+
 This file was intended to be a dynamic rendering of a simple event calendar for the ADN Wiki.
 
 2 bugs exist:
