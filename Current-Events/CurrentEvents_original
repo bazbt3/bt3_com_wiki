@@ -1,0 +1,102 @@
+{{Template:Banner|'''!'''|'''This is a test page.''' It's incomplete and intended for replacement ''at the App.net Wiki.'' Please read on for more information.}}
+This page started off as a direct copy of the App.net Wiki [http://appdotnetwiki.net/w/index.php?title=App.Net_Wiki:Current_events Current_events] page. It's intended to be used for adaptation and testing ''here'' instead of breaking more stuff ''there'', specifically:
+# There's date bug affecting #ThemeMonday in the table - on Sundays the week before an event, the event is rolled forward by a week.
+# When #BookClub falls on a Saturday (observed) the 'Nothing yet' test remains active.
+
+Even though I created the page I should mention the App.net Wiki site has a [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution Share Alike Licence.] I shall chastise myself for not mirroring the licence terms from that site on mine.
+
+ Page content follows below the rule.
+[[Category:testing]]
+__NOINDEX__
+----
+
+
+<sub><pre>The code underlying #ThemeMonday needs fixing in the table. It's every second Monday of the month.</pre></sub>
+<!--     Adding to the event list is easier than it looks. Triplication is necessary, simply because I     -->
+<!--     don't yet have the skills to make this markup elegant. If you understand how the markup works     -->
+<!--     why not have a go at fixing it? Please just add comments where you think appropriate.     -->
+<!--     Thanks, @bazbt3.     -->
+{| class="wikitable" style="background-color:#ffffff"
+|rowspan="8" valign="top"|
+<big>'''Events happening today on App.net:'''</big><br>
+({{CURRENTDAYNAME}} {{CURRENTMONTHNAME}} {{CURRENTDAY}}, where you are.)<big><br>
+<!--     Add WEEKLY events here after the ':' where |0=Sunday, |1=Monday ... |6=Saturday.     -->
+{{#switch: {{CURRENTDOW}}
+ |0=:[[QuoteSunday]]
+ |1=:[[MondayNightDanceParty]]
+ |2=:[[TuesdayChallenge]]
+ |3=:[[WednesdayChallenge]]
+ |4=:''Nothing just yet - why not add an event?''
+ |5=:[[GameFriday]] & [[WorkChat]]
+ |6=:''Nothing just yet - why not add an event?''
+}}
+<!--     Add MONTHLY events after the ':' where, e.g., |15 = day of month     -->
+{{#switch: {{CURRENTDAY}}
+ |15=:[[BookClub]] (15th of each month.)
+}}
+<!--     Add CUSTOM repeats e.g. for #ThemeMonday, which starts on a Sunday and continues through Monday     -->
+<!--     to display, then the following condition must first evaluate as true to display the link text:     -->
+<!--     current day of week < Tuesday AND current day of month > 7th AND current day of month < 15th     -->
+{{#switch: {{#ifeq: {{#expr:{{CURRENTDOW}}<2 AND {{CURRENTDAY}}>7 AND {{CURRENTDAY}}<15}} | 1 | 1 | 0 }}
+ |1=:[[ThemeMonday|Has #ThemeMonday started?!]]
+}}
+</big>
+:Events occur weekly unless otherwise stated.
+:However some challenges run for the entire week.
+:App.net users live in many different timezones,
+:so some events start as soon as the day starts
+:[https://en.wikipedia.org/wiki/Diomede_Islands here.]
+<br>
+|'''This week'''
+|rowspan="8" style="color:#ffffff;"|padding :)
+|Next week
+|-
+|'''Monday'''
+*[[MondayNightDanceParty]] {{#switch: {{#ifeq: {{#expr:{{CURRENTDAY}}>7 AND {{CURRENTDAY}}<15}} | 1 | 1 | 0 }} |1=: & [[ThemeMonday]]}} {{#switch: {{#expr:{{CURRENTDAY}}-{{CURRENTDOW}}}} |14=: & [[BookClub]]}}
+|Monday
+*[[MondayNightDanceParty]] {{#switch: {{#ifeq: {{#expr:{{CURRENTDAY}}>1 AND {{CURRENTDAY}}<8}} | 1 | 1 | 0 }} |1=: & [[ThemeMonday]]}} {{#switch: {{#expr:{{CURRENTDAY}}-{{CURRENTDOW}}}} |7=: & [[BookClub]]}}
+|-
+|'''Tuesday'''
+*[[TuesdayChallenge]] {{#switch: {{#expr:{{CURRENTDAY}}-{{CURRENTDOW}}}} |13=: & [[BookClub]]}}
+|Tuesday
+*[[TuesdayChallenge]] {{#switch: {{#expr:{{CURRENTDAY}}-{{CURRENTDOW}}}} |6=: & [[BookClub]]}}
+|-
+|'''Wednesday'''
+*[[WednesdayChallenge]] {{#switch: {{#expr:{{CURRENTDAY}}-{{CURRENTDOW}}}} |12=: & [[BookClub]]}}
+|Wednesday
+*[[WednesdayChallenge]] {{#switch: {{#expr:{{CURRENTDAY}}-{{CURRENTDOW}}}} |5=: & [[BookClub]]}}
+|-
+|'''Thursday'''
+{{#switch: {{#expr:{{CURRENTDAY}}-{{CURRENTDOW}}}} |11=:[[BookClub]]}}
+|Thursday
+{{#switch: {{#expr:{{CURRENTDAY}}-{{CURRENTDOW}}}} |4=:[[BookClub]]}}
+|-
+|'''Friday'''
+*[[GameFriday]] & [[WorkChat]] {{#switch: {{#expr:{{CURRENTDAY}}-{{CURRENTDOW}}}} |10=: & [[BookClub]]}}
+|Friday
+*[[GameFriday]] & [[WorkChat]] {{#switch: {{#expr:{{CURRENTDAY}}-{{CURRENTDOW}}}} |3=: & [[BookClub]]}}
+|-
+|'''Saturday'''
+{{#switch: {{#expr:{{CURRENTDAY}}-{{CURRENTDOW}}}} |9=:[[BookClub]]}}
+|Saturday
+{{#switch: {{#expr:{{CURRENTDAY}}-{{CURRENTDOW}}}} |2=:[[BookClub]]}}
+|-
+|'''Sunday'''
+*[[QuoteSunday]] {{#switch: {{#expr:{{CURRENTDAY}}-{{CURRENTDOW}}}} |8=: & [[BookClub]]}}
+|Sunday
+*[[QuoteSunday]] {{#switch: {{#expr:{{CURRENTDAY}}-{{CURRENTDOW}}}} |1=: & [[BookClub]]}}
+|}
+If you want to add an event, in the short-term, [https://alpha.app.net/intent/post/?text=%40bazbt3%20%23calendar%20help @bazbt3] can help.
+<br>
+== 'Non-weekly' repeating events ==
+* Every 15th day of the month - [[BookClub]].
+* Every second Monday of the month - [[ThemeMonday]] (starts on Sunday around noon UTC.)
+* The [[Photo_Club|ADNPhotoClub's]] monthly task runs from the 1st - 20th. All entries are subsequently posted for judging which lasts around 10 days.
+
+== Similar pages ==
+* [[ADNMeetUp]] - social gatherings inspired by App.net.
+
+----
+<sub>(This page starts the week on Monday, according to [https://en.wikipedia.org/wiki/ISO_8601 ISO 8601] - Wikipedia.)</sub>
+<!--     HIDE TABLE OF CONTENTS, 'EDIT' LINKS, THIS PAGE FROM CATEGORY PAGES (maybe.)     -->
+__HIDDENCAT__ __NOTOC__ __NOEDITSECTION__
