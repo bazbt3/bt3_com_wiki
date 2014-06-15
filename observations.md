@@ -1,5 +1,14 @@
 Observations
 ====
+(Newest first.)
+
+15/6/14
+----
+
+1. The obvious is not sometimes obvious. Branches are the key to successful revision control. Yes, I read the help.
+2. README.md files won't display within a containing folder is they have a suffix added to 'README', e.g. 'READMEwontfix'. Fair enough, I know now.
+
+----
 
 11/6/14
 ----
