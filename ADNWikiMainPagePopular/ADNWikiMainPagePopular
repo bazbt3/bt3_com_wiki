@@ -1,3 +1,4 @@
+{{Template:Banner|'''!'''|'''This is a test page.''' It is being tested here, to attempt to avoid making more public & embarrassing mistakes along the way, prior to being promoted to the main page at the [http://www.appdotnetwiki.net/ App.net Wiki.] It's similar to the page at the ADN Wiki as-of 4 June 2014, but hopefully increases prominence for popular and ''useful'' pages.<br><br>The content is similar to [[ADNWikiMainPageBling]] here, but with increased prominence for actually-popular (and useful) pages. All red (broken) links are intentional.}}
 <!--     START THE MAIN TABLE DEFINITION     -->
 {| class="wikitable" style="background-color:#ffffff; width=100%; border: 2px solid white;"
 <!--     COLUMN 1     -->
@@ -18,65 +19,75 @@ This Wiki is maintained by [[Wiki Volunteer Staff|volunteers]]. It is our intent
 {| style="color: black; background-color: #ddddff;" width="100%;"
 | <span style="font-size:150%">A few popular pages to get you started</span> 
 |}
-
-<div style="column-count:3;-moz-column-count:3;-webkit-column-count:3">
+<div style="column-count:2;-moz-column-count:2;-webkit-column-count:2">
 === A-E ===
-* [[:Category:ADNhashtags|ADN Hashtag Listing]]
-* [[ADNMeetUp|ADN MeetUp]]
-* <strike>[[Photo Club|ADN Photo Club]]</strike>
-* [[ADNPrinter|ADN Printer]]
-* [[Blogging with ADN]]
-* [[BookClub]]
-* [[Broadcast]]
-* [[Clients|Clients (apps, etc.)]]
-* [[App.Net Wiki:Current events |Current Events]]
-* [[Developer Resources]]
-* [[Discover_ADN|Discover ADN]]
-* [[Etiquette and Protocol]]
+* [[:Category:ADNhashtags|ADN Hashtag Listing]] - popular ADN-only hashtags.
+* [[ADNMeetUp]] - real-life meetup listings.
+* [[ADNPrinter]] - (printer is currently offline.)
+* [[Blogging with ADN]] - want to blog?
+* [[BookClub]] - discuss & read a book together.
+* [[Broadcast]] - Push notifications for various services.
+* [[Clients|Clients (apps, etc.)]] - ADN program listings.
+* [[Cookie_Club|Cookie Club]] - 10,000 ADN posts? You're in this!
+* [[App.Net Wiki:Current events|Current Events]] - a basic event listing for ADN.
+* [[Discover_ADN|Discover ADN]] - anterviews podcasts with ADN users.
 
 === F-J ===
-* [[Featured Activities]]
-* [[File Storage]]
-* [[GameFriday]]
-* [[:Category:Glossary|Glossary]]
-* [[Hackathon]]
-* [[:Help:Editing|Help with Editing]]
-* [[History]]
-* [[How to Use This Wiki]]
-* [[Jukebox]]
+* [[GameFriday]] - get your game face on!
+* [[:Help:Editing|Help with Editing]] - unsure how to edit here?
+* [[How to Use This Wiki]] - Wiki browsing tips.
 
 === K-O ===
-* [[Longposts]]
-* [[MondayNightDanceParty]]
-* [[MovieNight]]
-* [[Netterpress|Netterpress - The ADN Newsletter]]
-* [[Newbie's guide to app.net|Newbie's Guide]]
+* [[MondayNightDanceParty]] - broadcast music to ADN!
+* '''[[Newbie's guide to app.net|Newbie's Guide]] - start here!'''
 
 === P-T ===
-* [[Patter]]
-* [[Patter_rooms|Patter Rooms]]
-* [[Podcasts]]
-* [[Post Count Achievements]]
-* [[Private Messaging]]
+* [[Patter]] - ADN chat rooms.
+* [[Patter_rooms|Patter Rooms]] - ADN chat room listing.
+* [[Post Count Achievements]] - post, achieve badges. Quality > quantity!
+* [[Purplapp]] - want to know lots of ADN account statistics?
 * [[Resources for new users#Podcasts|Recommended Podcasts]]
 * [[Resources for new users#Articles and Blogs|Recommended Blogs]]
 * [[Resources for new users|Resources For New Users]]
-* [[Search]]
-* [[ThemeMonday]]
-* [[Threading]]
-* [[Timeline]]
+* [[ThemeMonday|ThemeMonday]] - themed avatar changes monthly.
 
 === U-Z ===
-* [[User Pages]]
-* [[Vernacular]]
-* [[Vidcast]]
-* [[WednesdayChallenge]]
-* [[Statistics|Wiki Statistics]]
-* [[Wiki Volunteer Staff]]
-* [[WorkChat|WorkChat Patter Room]]
+* [[User_Pages|User pages]] - this Wiki's user pages.
+* [[Vidcast]] - collaborative video playing.
+* [[WednesdayChallenge]] - write a themed 1-post story!
+* [[Wiki_Volunteer_Staff|Wiki volunteer staff]]
+* [[WorkChat|WorkChat]] - give or get tips to work smarter.
 
 === 0-9 ===
-* [[10Centuries]]
+* [[10Centuries]] - a popular ADN user's blogging platform.
+</div>
+(This listing includes pages found at [[Special:PopularPages|'Popular Pages.']])
+<br>
+
+<!--     USEFUL PAGES CELL HEADER DEFINITION     -->
+{| style="color: black; background-color: #ddddff;" width="100%;"
+| <span style="font-size:150%">More to explore</span>
+|}
+
+<div style="column-count:3;-moz-column-count:3;-webkit-column-count:3">
+* [[Developer Resources]]
+* [[Etiquette and Protocol]]
+* [[Featured Activities]]
+* [[File Storage]]
+* [[:Category:Glossary|Glossary]]
+* [[Hackathon]]
+* [[History]]
+* [[Jukebox]]
+* [[Longposts]]
+* [[MovieNight]]
+* [[Netterpress|Netterpress - The ADN Newsletter]]
+* [[Podcasts]]
+* [[Private Messaging]]
+* [[Search]]
+* [[Threading]]
+* [[Timeline]]
+* [[Vernacular]]
+* [[Statistics|Wiki Statistics]]
 </div>
 <br>
 
@@ -120,7 +131,6 @@ Please see the [[App.Net_Wiki:Current_events|Current Events page]] for more deta
 ==== Monthly events ====
 * Every 15th day of the month - [[BookClub]] - read and discuss a book together.
 * Every second Monday of the month - [[ThemeMonday]] (starts on Sunday around noon UTC) - change your avatar to a theme for a day or more.
-* <strike>The [[Photo_Club|ADNPhotoClub's]] task runs from 1st - 20th. Judging lasts for 10 days.</strike> (See [[Photo_Club|page]] for more details.)
 
 ==== Irregular events ====
 * [[Discover_ADN|Discover ADN]] - short podcasts interviewing interesting ADN users. (Released around every 3 days.)
@@ -129,3 +139,13 @@ Please see the [[App.Net_Wiki:Current_events|Current Events page]] for more deta
 
 __NOEDITSECTION__
 __NOTOC__
+
+
+
+<!-- ************************************************************************************************ -->
+<!-- Everything above is to be retained, below deleted. Redlinks above are valid on the App.net Wiki. -->
+<!-- ************************************************************************************************ -->
+
+__NOINDEX__
+__NOTOC__
+[[Category:Testing]]
