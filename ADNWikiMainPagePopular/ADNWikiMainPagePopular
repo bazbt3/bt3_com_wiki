@@ -1,0 +1,131 @@
+<!--     START THE MAIN TABLE DEFINITION     -->
+{| class="wikitable" style="background-color:#ffffff; width=100%; border: 2px solid white;"
+<!--     COLUMN 1     -->
+| colspan="2;" style= valign="top"|
+
+<!--     COLUMN 1     -->
+<!--     WELCOME CELL HEADER DEFINITION     -->
+{| style="color: black; background-color: #ddddff;" width="100%;"
+| <span style="font-size:175%">Welcome to the App.net Wiki</span> 
+|}
+
+App.net is a new and vibrant social network, based on the concept that '''paying for the use of a social network directly is better than selling your privacy one item at a time.''' Founded [https://alpha.app.net/dalton/post/9022868 in August 2012,] App.net is growing at a responsible rate, and provides a broad tapestry of [[Clients#Services|clients and services]] for many different purposes.
+
+This Wiki is maintained by [[Wiki Volunteer Staff|volunteers]]. It is our intent to put up every shred of documentation we can find on this venture, except for [http://developers.app.net/ API documentation]; we think App.net would rather do that themselves.
+<br><br>
+
+<!--     POPULAR PAGES CELL HEADER DEFINITION     -->
+{| style="color: black; background-color: #ddddff;" width="100%;"
+| <span style="font-size:150%">A few popular pages to get you started</span> 
+|}
+
+<div style="column-count:3;-moz-column-count:3;-webkit-column-count:3">
+=== A-E ===
+* [[:Category:ADNhashtags|ADN Hashtag Listing]]
+* [[ADNMeetUp|ADN MeetUp]]
+* <strike>[[Photo Club|ADN Photo Club]]</strike>
+* [[ADNPrinter|ADN Printer]]
+* [[Blogging with ADN]]
+* [[BookClub]]
+* [[Broadcast]]
+* [[Clients|Clients (apps, etc.)]]
+* [[App.Net Wiki:Current events |Current Events]]
+* [[Developer Resources]]
+* [[Discover_ADN|Discover ADN]]
+* [[Etiquette and Protocol]]
+
+=== F-J ===
+* [[Featured Activities]]
+* [[File Storage]]
+* [[GameFriday]]
+* [[:Category:Glossary|Glossary]]
+* [[Hackathon]]
+* [[:Help:Editing|Help with Editing]]
+* [[History]]
+* [[How to Use This Wiki]]
+* [[Jukebox]]
+
+=== K-O ===
+* [[Longposts]]
+* [[MondayNightDanceParty]]
+* [[MovieNight]]
+* [[Netterpress|Netterpress - The ADN Newsletter]]
+* [[Newbie's guide to app.net|Newbie's Guide]]
+
+=== P-T ===
+* [[Patter]]
+* [[Patter_rooms|Patter Rooms]]
+* [[Podcasts]]
+* [[Post Count Achievements]]
+* [[Private Messaging]]
+* [[Resources for new users#Podcasts|Recommended Podcasts]]
+* [[Resources for new users#Articles and Blogs|Recommended Blogs]]
+* [[Resources for new users|Resources For New Users]]
+* [[Search]]
+* [[ThemeMonday]]
+* [[Threading]]
+* [[Timeline]]
+
+=== U-Z ===
+* [[User Pages]]
+* [[Vernacular]]
+* [[Vidcast]]
+* [[WednesdayChallenge]]
+* [[Statistics|Wiki Statistics]]
+* [[Wiki Volunteer Staff]]
+* [[WorkChat|WorkChat Patter Room]]
+
+=== 0-9 ===
+* [[10Centuries]]
+</div>
+<br>
+
+<!--     EXTERNAL LINKS CELL HEADER DEFINITION     -->
+{| style="color: black; background-color: #ddddff;" width="100%;"
+| <span style="font-size:150%">Useful External Links:</span> 
+|}
+*[http://patter-app.net/room.html?channel=24573 Wiki Patter Room]
+*[http://alpha.app.net/intent/follow/?user_id=@wiki Alpha Account (@wiki)]
+*[http://alpha.app.net/intent/subscribe/?channel_id=34822 Wiki News Broadcast Channel]
+<!--     COLUMN 2     -->
+| style= valign="top"|
+
+<!--     EVENT CALENDAR HEADER DEFINITION     -->
+{| style="color: black; background-color: #ddddff;" width="100%;"
+| <span style="font-size:175%">Event Calendar</span> 
+|}
+
+Please see the [[App.Net_Wiki:Current_events|Current Events page]] for more detail.
+==== Weekly events ====
+{|
+|Monday
+|[[MondayNightDanceParty]] - request your favourite music.<br>
+|-
+|Tuesday
+|[[TuesdayChallenge]] - create themed art.<br>
+|-
+|Wednesday
+|[[WednesdayChallenge]] - write a themed 1-post story.<br>
+|-
+|Friday
+|[[GameFriday]] - get your game face on!<br>
+|-
+|Friday too!
+|[[WorkChat]] - get or give tips that help you work smarter.<br>
+|-
+|Sunday
+|[[QuoteSunday]] - post a quote that sums up what you're thinking.<br>
+|}
+
+==== Monthly events ====
+* Every 15th day of the month - [[BookClub]] - read and discuss a book together.
+* Every second Monday of the month - [[ThemeMonday]] (starts on Sunday around noon UTC) - change your avatar to a theme for a day or more.
+* <strike>The [[Photo_Club|ADNPhotoClub's]] task runs from 1st - 20th. Judging lasts for 10 days.</strike> (See [[Photo_Club|page]] for more details.)
+
+==== Irregular events ====
+* [[Discover_ADN|Discover ADN]] - short podcasts interviewing interesting ADN users. (Released around every 3 days.)
+* The [[Firesides|Firesid.es]] community-run chats with ADN users.
+|}
+
+__NOEDITSECTION__
+__NOTOC__
