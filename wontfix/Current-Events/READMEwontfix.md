@@ -1,5 +1,5 @@
 What is this?
-====
+----
 
 The CurrentEvents file was intended to be a dynamic rendering of a simple event calendar for the ADN Wiki.
 
@@ -12,7 +12,7 @@ The mathematics and/or Mediawiki markup code is unsound therefore the page was r
 
 
 External links:
-====
+----
 Test page current version: http://bt3.com/index.php?title=CurrentEvents
 
 ADN Wiki current version: http://appdotnetwiki.net/w/index.php?title=App.Net_Wiki:Current_events
