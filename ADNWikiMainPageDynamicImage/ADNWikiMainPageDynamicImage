@@ -1,0 +1,150 @@
+<!--  not yet started as of 23/6/14 -->
+
+
+<!--     START THE MAIN TABLE DEFINITION     -->
+{| class="wikitable" style="background-color:#ffffff; width=100%; border: 2px solid white;"
+[[File:ADNWikiMainPageMasthead.jpg|Test masthead courtesy & (C)@kdfrawg.]]
+<!--     COLUMN 1     -->
+| colspan="2;" style= valign="top"|
+
+<!--     COLUMN 1     -->
+<!--     WELCOME CELL HEADER DEFINITION     -->
+{| style="color: black; background-color: #ddddff;" width="100%;"
+| <span style="font-size:175%">Welcome to the App.net Wiki</span> 
+|}
+
+App.net is a new and vibrant social network, based on the concept that '''paying for the use of a social network directly is better than selling your privacy one item at a time.''' Founded [https://alpha.app.net/dalton/post/9022868 in August 2012,] App.net is growing at a responsible rate, and provides a broad tapestry of [[Clients#Services|clients and services]] for many different purposes.
+
+This Wiki is maintained by [[Wiki Volunteer Staff|volunteers]]. It is our intent to put up every shred of documentation we can find on this venture, except for [http://developers.app.net/ API documentation]; we think App.net would rather do that themselves.
+<br><br>
+
+<!--     POPULAR PAGES CELL HEADER DEFINITION     -->
+{| style="color: black; background-color: #ddddff;" width="100%;"
+| <span style="font-size:150%">A few popular pages to get you started</span> 
+|}
+<big>'''[[Newbie's guide to app.net|A guide for new users]] - start here!'''</big>
+<div style="column-count:2;-moz-column-count:2;-webkit-column-count:2">
+=== A-C ===
+* [[:Category:ADNhashtags|ADN Hashtag Listing]] - popular ADN-only hashtags.
+* [[ADNMeetUp]] - real-life meetup listings.
+* [[BookClub]] - discuss & read a book together.
+* [[Broadcast]] - Push notifications for various services.
+* [[Clients|Clients (apps, etc.)]] - ADN program listings.
+* [[Cookie_Club|Cookie Club]] - 10,000 ADN posts? You're in this!
+* [[App.Net Wiki:Current events|Current Events]] - a basic event listing for ADN.
+
+=== D-O ===
+* [[Discover_ADN|Discover ADN]] - anterviews podcasts with ADN users.
+* [[GameFriday]] - get your game face on!
+* [[:Help:Editing|Help with Editing]] - unsure how to edit here?
+* [[How to Use This Wiki]] - Wiki browsing tips.
+* [[MondayNightDanceParty]] - broadcast music to ADN!
+
+=== P-T ===
+* [[Patter]] - ADN chat rooms.
+* [[Patter_rooms|Patter Rooms]] - ADN chat room listing.
+* [[Post Count Achievements]] - post badges. Quality > quantity!
+* [[Purplapp]] - lots of ADN account statistics!
+* [[Resources for new users|Resources For New Users]]
+* [[ThemeMonday|ThemeMonday]] - themed avatar changes monthly.
+
+=== U-Z ===
+* [[WednesdayChallenge]] - write a themed 1-post story!
+* [[WorkChat|WorkChat]] - give or get tips to work smarter.
+
+=== 0-9 ===
+* [[10Centuries]] - a popular blogging platform.
+</div>
+<br>
+
+<!--     USEFUL PAGES CELL HEADER DEFINITION     -->
+{| style="color: black; background-color: #ddddff;" width="100%;"
+| <span style="font-size:150%">More to explore</span>
+|}
+
+<div style="column-count:3;-moz-column-count:3;-webkit-column-count:3">
+* [[ADNPrinter]] - (printer offline.)
+* [[Blogging with ADN]]
+* [[Developer Resources]]
+* [[Etiquette and Protocol]]
+* [[Featured Activities]]
+* [[File Storage]]
+* [[:Category:Glossary|Glossary]]
+* [[Hackathon]]
+* [[History]]
+* [[Jukebox]]
+* [[Longposts]]
+* [[MovieNight]]
+* [[Netterpress|Netterpress - The ADN Newsletter]]
+* [[Podcasts]]
+* [[Private Messaging]]
+* [[Resources for new users#Podcasts|Recommended Podcasts]]
+* [[Resources for new users#Articles and Blogs|Recommended Blogs]]
+* [[Search]]
+* [[Threading]]
+* [[Timeline]]
+* [[User_Pages|User pages]]
+* [[Vernacular]]
+* [[Vidcast]]
+* [[Wiki_Volunteer_Staff|Wiki volunteer staff]]
+* [[Statistics|Wiki Statistics]]
+</div>
+<br>
+
+<!--     EXTERNAL LINKS CELL HEADER DEFINITION     -->
+{| style="color: black; background-color: #ddddff;" width="100%;"
+| <span style="font-size:150%">Useful External Links:</span> 
+|}
+*[http://patter-app.net/room.html?channel=24573 Wiki Patter Room]
+*[http://alpha.app.net/intent/follow/?user_id=@wiki Alpha Account (@wiki)]
+*[http://alpha.app.net/intent/subscribe/?channel_id=34822 Wiki News Broadcast Channel]
+<!--     COLUMN 2     -->
+| style= valign="top"|
+
+<!--     EVENT CALENDAR HEADER DEFINITION     -->
+{| style="color: black; background-color: #ddddff;" width="100%;"
+| <span style="font-size:175%">Event Calendar</span> 
+|}
+
+Please see the [[App.Net_Wiki:Current_events|Current Events page]] for more detail.
+==== Weekly events ====
+{|
+|Monday
+|[[MondayNightDanceParty]] - request your favourite music.<br>
+|-
+|Tuesday
+|[[TuesdayChallenge]] - create themed art.<br>
+|-
+|Wednesday
+|[[WednesdayChallenge]] - write a themed 1-post story.<br>
+|-
+|Friday
+|[[GameFriday]] - get your game face on!<br>
+|-
+|Friday too!
+|[[WorkChat]] - get or give tips that help you work smarter.<br>
+|-
+|Sunday
+|[[QuoteSunday]] - post a quote that sums up what you're thinking.<br>
+|}
+
+==== Monthly events ====
+* Every 15th day of the month - [[BookClub]] - read and discuss a book together.
+* Every second Monday of the month - [[ThemeMonday]] (starts on Sunday around noon UTC) - change your avatar to a theme for a day or more.
+
+==== Irregular events ====
+* [[Discover_ADN|Discover ADN]] - short podcasts interviewing interesting ADN users. (Released around every 3 days.)
+* The [[Firesides|Firesid.es]] community-run chats with ADN users.
+|}
+
+__NOEDITSECTION__
+__NOTOC__
+
+<!-- ************************************************************************************************ -->
+<!-- Everything above is to be retained, below deleted. Redlinks above are valid on the App.net Wiki. -->
+<!-- ************************************************************************************************ -->
+
+{{Template:Banner|'''!'''|'''This is a test page''' prior to being added to the main page at the [http://www.appdotnetwiki.net/ App.net Wiki] on 15 June 2014. It's similar to the page at the ADN Wiki on 20 June 2014, but with a masthead supplied by @kdfrawg. All red (broken) links remain intentional. Apart from those that aren't.}}
+__NOINDEX__
+__NOTOC__
+[[Category:Testing]]
