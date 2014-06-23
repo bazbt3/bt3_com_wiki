@@ -6,8 +6,8 @@
 
 
 # Ignore fixed and wontfix folders.
-fixed/
-wontfix/
+fixed/*.*
+wontfix/*.*
 
 # Ignore README.md & observations.md - only here
 /README.md
