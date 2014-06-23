@@ -12,8 +12,7 @@ The criteria are not limited to e.g.:
 
 3. 12 images changing by month,
 
-4. Multiple images changing by day but with the option of different images encompassing exents occurring on the same day, e.g.:
-   #bookclub, #thememonday, #mondaynightdanceparty.
+4. Multiple images changing by day but with the option of different images encompassing exents occurring on the same day, e.g.    #bookclub, #thememonday, #mondaynightdanceparty.
    This **could** be achieved by having (say) 3 images arranged side-by-side with blanks to fill the un-occupied space.
 
 5. Space for special events overriding the above.
