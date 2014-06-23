@@ -15,7 +15,7 @@ The criteria are not limited to e.g.:
 4. Multiple images changing by day but with the option of different images encompassing exents occurring on the same day, e.g.    #bookclub, #thememonday, #mondaynightdanceparty.
    This *could* be achieved by having the images aligned to the right of the table and concatenated as required.
 
-5. Space for special events overriding the above.
+5. Provision for special events overriding the above.
 
 ----
 Extermal links:
