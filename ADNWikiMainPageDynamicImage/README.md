@@ -1,7 +1,7 @@
-Trial of a dynamic image banner/masthead on the ADN Wiki main page.
+Trial of a dynamic image banner/masthead, ultimately for the ADN Wiki main page.
 ----
 
-- It should change to a predetermined set of criteria.
+- It should change subject to a predetermined set of criteria.
 - Must establish the default size of images before preparing several which change on a recurring basis.
 
 The criteria are not limited to e.g.:
@@ -22,4 +22,4 @@ External links:
 ----
 - http://appdotnetwiki.net/ (as of 23/06/2014 this page does not have the 'masthead'.)
 
-- http://bt3.com/index.php?title=ADNWikiMainPageMasthead (the test page at my site.)
+- http://bt3.com/index.php?title=ADNWikiMainPageMasthead (the *finished, static* test page at my site.)
