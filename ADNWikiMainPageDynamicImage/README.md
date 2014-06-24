@@ -18,7 +18,7 @@ The criteria are not limited to e.g.:
 5. Provision for special events overriding the above.
 
 ----
-Extermal links:
+External links:
 ----
 - http://appdotnetwiki.net/ (as of 23/06/2014 this page does not have the 'masthead'.)
 
