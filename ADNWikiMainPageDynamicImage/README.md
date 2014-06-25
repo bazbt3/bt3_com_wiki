@@ -20,11 +20,8 @@ The criteria are not limited to e.g.:
 ----
 External links:
 ----
-- http://appdotnetwiki.net/
-  (as of 23/06/2014 this page does not have the 'masthead'.)
+- http://appdotnetwiki.net/ (as of 23/06/2014 this page does not have the 'masthead'.)
 
-- http://bt3.com/index.php?title=ADNWikiMainPageMasthead
-  (the *finished, static* test page at my site.)
+- http://bt3.com/index.php?title=ADNWikiMainPageMasthead (the *finished, static* test page at my site.)
 
-- http://en.wikiversity.org/wiki/Generating_dynamic_content_with_MediaWiki#Daily_dynamics
-  (Wikiversity's dynamic content page.)
+- http://en.wikiversity.org/wiki/Generating_dynamic_content_with_MediaWiki#Daily_dynamics (Wikiversity's dynamic content page.)
