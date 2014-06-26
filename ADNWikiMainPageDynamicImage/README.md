@@ -18,6 +18,13 @@ The criteria are not limited to e.g.:
 5. Provision for special events overriding the above.
 
 ----
+First iteration:
+----
+The easiest thing to do - when creating a dynamic page - is to switch content simply by day-of-week. The first new design therefore chooses the regularly-repeating events from CurrentEvents and inserts a 'humorous' comment if no event exists.
+
+A second iteration may check for #bookclub on the 15th day of every month.
+
+----
 External links:
 ----
 - http://appdotnetwiki.net/ (as of 23/06/2014 this page does not have the 'masthead'.)
