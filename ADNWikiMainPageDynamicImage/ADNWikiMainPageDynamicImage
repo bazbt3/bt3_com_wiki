@@ -1,12 +1,21 @@
-<!--  not yet started as of 23/6/14 -->
-
-
+{{Template:Banner|'''!'''|'''This is a test page''' for the [http://www.appdotnetwiki.net/ App.net Wiki] main page.<br>It's similar to [[ADNWikiMainPageMasthead]] but it is intended to removed the static banner supplied by @kdfrawg and to replace it with images chosen dynamically by event/date/day.<br>All red (broken) links remain intentional - apart from those that aren't, as usual.<br>See [https://github.com/bazbt3/bt3_com_wiki/tree/master/ADNWikiMainPageDynamicImage the Github README] for more detail.}}
+----
 <!--     START THE MAIN TABLE DEFINITION     -->
 {| class="wikitable" style="background-color:#ffffff; width=100%; border: 2px solid white;"
-[[File:ADNWikiMainPageMasthead.jpg|Test masthead courtesy & (C)@kdfrawg.]]
+<!--     START THE 'BANNER' LINE DEFINITION     -->
+{{#switch: {{CURRENTDOW}}
+ |0=[[QuoteSunday]]
+ |1=[[MondayNightDanceParty]]
+ |2=[[TuesdayChallenge]]
+ |3=[[File:WedC just write 200x200.png|right|100px|link=WednesdayChallenge]]
+ |4=Just another Thursday.
+ |5=[[GameFriday]] [[WorkChat]]
+ |6=Saturday night's alright for... ADN-ing!
+}}
+<br>
+<!--     END THE 'BANNER' TABLE DEFINITION     -->
 <!--     COLUMN 1     -->
 | colspan="2;" style= valign="top"|
-
 <!--     COLUMN 1     -->
 <!--     WELCOME CELL HEADER DEFINITION     -->
 {| style="color: black; background-color: #ddddff;" width="100%;"
@@ -47,6 +56,7 @@ This Wiki is maintained by [[Wiki Volunteer Staff|volunteers]]. It is our intent
 * [[Purplapp]] - lots of ADN account statistics!
 * [[Resources for new users|Resources For New Users]]
 * [[ThemeMonday|ThemeMonday]] - themed avatar changes monthly.
+* [[TuesdayChallenge]] - Tuesdays, an art challenge!
 
 === U-Z ===
 * [[WednesdayChallenge]] - write a themed 1-post story!
@@ -78,6 +88,7 @@ This Wiki is maintained by [[Wiki Volunteer Staff|volunteers]]. It is our intent
 * [[Netterpress|Netterpress - The ADN Newsletter]]
 * [[Podcasts]]
 * [[Private Messaging]]
+* [[QuoteSunday]]
 * [[Resources for new users#Podcasts|Recommended Podcasts]]
 * [[Resources for new users#Articles and Blogs|Recommended Blogs]]
 * [[Search]]
@@ -140,11 +151,11 @@ Please see the [[App.Net_Wiki:Current_events|Current Events page]] for more deta
 __NOEDITSECTION__
 __NOTOC__
 
+
 <!-- ************************************************************************************************ -->
 <!-- Everything above is to be retained, below deleted. Redlinks above are valid on the App.net Wiki. -->
 <!-- ************************************************************************************************ -->
 
-{{Template:Banner|'''!'''|'''This is a test page''' prior to being added to the main page at the [http://www.appdotnetwiki.net/ App.net Wiki] on 15 June 2014. It's similar to the page at the ADN Wiki on 20 June 2014, but with a masthead supplied by @kdfrawg. All red (broken) links remain intentional. Apart from those that aren't.}}
 __NOINDEX__
 __NOTOC__
 [[Category:Testing]]
