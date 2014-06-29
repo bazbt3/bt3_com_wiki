@@ -25,10 +25,18 @@ The easiest thing to do - when creating a dynamic page - is to switch content si
 A second iteration may check for #bookclub on the 15th day of every month.
 
 ----
+Second iteration:
+----
+Mainly a formatting and placement update: @kdfrawg's banner has been reinstated and the event icons moved from the main page top to the top of the Events column - the only really logical place for such items.
+
+The third major iteration should really focus on content rather than formatting. That said, at least the focus on formatting made the page look better!
+
+----
 External links:
 ----
-- http://appdotnetwiki.net/ (as of 23/06/2014 this page does not have the 'masthead'.)
 
 - http://bt3.com/index.php?title=ADNWikiMainPageMasthead (the *finished, static* test page at my site.)
+
+- http://appdotnetwiki.net/ (as of 29/06/2014 this page does not have the 'masthead'.)
 
 - http://en.wikiversity.org/wiki/Generating_dynamic_content_with_MediaWiki#Daily_dynamics (Wikiversity's dynamic content page.)
