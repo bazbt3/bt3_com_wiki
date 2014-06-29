@@ -2,17 +2,7 @@
 ----
 <!--     START THE MAIN TABLE DEFINITION     -->
 {| class="wikitable" style="background-color:#ffffff; width=100%; border: 2px solid white;"
-<!--     START THE 'BANNER' LINE DEFINITION     -->
-{{#switch: {{CURRENTDOW}}
- |0=[[QuoteSunday]] [[File:WedC just write 200x200.png|75px|link=WednesdayChallenge]] [[File:WorkChat_Icon.jpg|75px|link=WorkChat]]
- |1=[[MondayNightDanceParty]]
- |2=[[TuesdayChallenge]]
- |0=[[File:WedC just write 200x200.png|75px|link=WednesdayChallenge]]
- |4=Just another Thursday.
- |5=[[GameFriday]] [[File:WorkChat_Icon.jpg|75px|link=WorkChat]]
- |6=Saturday night's alright for... ADN-ing!
-}}
-<!--     END THE 'BANNER' TABLE DEFINITION     -->
+[[File:ADNWikiMainPageMasthead.jpg|ADN Wiki masthead (C) @kdfrawg.]]
 | colspan="2;" style= valign="top"|
 <!--     COLUMN 1     -->
 <!--     WELCOME CELL HEADER DEFINITION     -->
@@ -114,7 +104,17 @@ This Wiki is maintained by [[Wiki Volunteer Staff|volunteers]]. It is our intent
 {| style="color: black; background-color: #ddddff;" width="100%;"
 | <span style="font-size:175%">Event Calendar</span> 
 |}
-
+<!--     START THE 'BANNER' LINE DEFINITION     -->
+<big>Today:</big> {{#switch: {{CURRENTDOW}}
+ |0=[[File:QuoteSunday200x200.png|50px|link=QuoteSunday]] [[File:WedC_just_write_200x200.png|50px|link=WednesdayChallenge]] [[File:WorkChat_Icon.jpg|50px|link=WorkChat]]
+ |1=[[MondayNightDanceParty]]
+ |2=[[TuesdayChallenge]]
+ |0=[[File:WedC just write 200x200.png|75px|link=WednesdayChallenge]]
+ |4=Just another Thursday.
+ |5=[[GameFriday]] [[File:WorkChat_Icon.jpg|75px|link=WorkChat]]
+ |6=Saturday night's alright for... ADN-ing!
+}}<br>
+<!--     END THE 'BANNER' TABLE DEFINITION     -->
 Please see the [[App.Net_Wiki:Current_events|Current Events page]] for more detail.
 ==== Weekly events ====
 {|
