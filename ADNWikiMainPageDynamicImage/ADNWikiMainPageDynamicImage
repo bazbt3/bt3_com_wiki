@@ -4,10 +4,10 @@
 {| class="wikitable" style="background-color:#ffffff; width=100%; border: 2px solid white;"
 <!--     START THE 'BANNER' LINE DEFINITION     -->
 {{#switch: {{CURRENTDOW}}
- |0=[[QuoteSunday]]
+ |0=[[QuoteSunday]] [[File:WedC just write 200x200.png|75px|link=WednesdayChallenge]] [[File:WorkChat_Icon.jpg|75px|link=WorkChat]]
  |1=[[MondayNightDanceParty]]
  |2=[[TuesdayChallenge]]
- |3=[[File:WedC just write 200x200.png|75px|link=WednesdayChallenge]]
+ |0=[[File:WedC just write 200x200.png|75px|link=WednesdayChallenge]]
  |4=Just another Thursday.
  |5=[[GameFriday]] [[File:WorkChat_Icon.jpg|75px|link=WorkChat]]
  |6=Saturday night's alright for... ADN-ing!
