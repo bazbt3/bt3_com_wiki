@@ -1,7 +1,7 @@
 A possible tip of the day
 =========================
 
-Will a tip-of-the day/week/month be useful and/or popular at the ADN Wiki?
+Will a tip-of-the day/week/month be useful and/or popular at the ADN Wiki? (See issue #9 here for more.)
 
 As a trial example, choose a 31-day month, create a few arbitrary items for display, and then transclude the resulting tip-of-the-day into the Wiki's main page.
 
