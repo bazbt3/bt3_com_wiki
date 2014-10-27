@@ -1,0 +1,54 @@
+<noinclude>== A sample message-of-the-day template ==
+For the ADN Wiki, of course.<br>
+An example:<br>
+----
+</noinclude>
+{{#switch: {{CURRENTDAY}}
+ |0=Something went wrong. Bend over.
+ |1=What's happening? [[App.Net_Wiki:Current_events|This is.]]
+ |2=Every second Monday of the month: [[ThemeMonday|#ThemeMonday]]
+ |3=[[ADNPi|#ADNPi]] is irrational.
+ |4=Who makes this Wiki? You and [[Wiki_Volunteer_Staff|volunteers!]]
+ |5=App.net has [[Private_Messaging|private messaging.]]
+ |6=Want to know about other users? Try [[Discover_ADN|@DiscoverADN]]
+ |7=Did you know App.net also has [[File_Storage|file storage]]?
+ |8=There are a number of improvement [[ADN_Initiatives|initiatives]] in progress.
+ |9=Lots of quality posts? App.net has [[Post_Count_Achievements|badges!]]
+ |10=Have you got a [[Cookie_Club|Cookie?]]
+ |11=Have you got App.net's [[OfficialApp|official app?]]
+ |12=Do you like football (soccer)? Search for the [[ADNFC|#ADNFC]] hashtag.
+ |13=App.net was created on August 13 2012.
+ |14=Are you a hacker? Try the [[Hackathon|#hackathons!]]
+ |15=The ADN [[BookClub]] meets every 15th.
+ |16=Do you like statistics? [[Purplapp]] is for you!
+ |17=Every Friday: [[WorkChat|#WorkChat!]]
+ |18=Want Push notifications? There's [[Broadcast]].
+ |19=Have you tried [[QuoteSunday]] yet?
+ |20=Every Monday: [[MondayNightDanceParty|#MondayNightDanceParty!]]
+ |21=Feeling artistic? Try the [[TuesdayChallenge|#TuesdayChallenge]]!
+ |22=Feeling creative? Try the [[WednesdayChallenge|#WednesdayChallenge]]!
+ |23=New to ADN? Try [[App.net_resources_for_new_users|our resources.]]
+ |24=ADN has [[Apps|Apps and services!]]
+ |25=Why not try making a page [[Help:Editing|better?]]
+ |26=[[App.Net_Wiki:Community_portal|What's happening]] at the Wiki?
+ |27=[[App.Net_Wiki:Current_events|What's happening]] across App.net?
+ |28=Want chatrooms? App.net has [[Patter_rooms|Patter rooms.]]
+ |29=Feeling generous/needy? Try an [[ADNgift]].
+ |30=Like coffee? Post with a [[Coffeelovers|#Coffeelovers hashtag]]!
+ |31=The App.net Wiki has [[Pages_that_need_work|pages that need work.]]
+ |32=Something went wrong. Hands up!
+}}
+<noinclude>
+----
+<br>It uses code like the following, the middle is removed for brevity:
+<pre>
+{{#switch: {{CURRENTDAY}}
+ |0=Something went wrong. Bend over.
+ |1=What's happening? [[App.Net_Wiki:Current_events|This is.]]
+ ...
+ |31=The App.net Wiki has [[Pages_that_need_work|pages that need work.]]
+ |32=Something went wrong. Hands up!
+}}
+</pre>
+The 'switch' command uses a system variable 'CURRENTDAY' and looks through a list of entries starting with a "|" and a number which corresponds to the CURRENTDAY of the month. '0' and '32' are superfluous.
+</noinclude>
